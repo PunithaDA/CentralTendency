@@ -19,3 +19,16 @@
 - MATPLOTLIB
 - SEABORN
 - JUPYTER NOTEBOOK
+
+## Analysis:
+### Exploratory Data Analysis (EDA):
+#### Utilized histograms to visualize the distribution of key chemical properties, including volatile acidity, fixed acidity, and citric acid.
+#### Incorporated mean and median lines to highlight the central tendency measures within each distribution.
+### Quality Rating Analysis:
+#### Employed a count plot to visualize the distribution of wine quality ratings.
+
+## Findings:
+#### Mean Value of Fixed Acidity: The mean value of fixed acidity in the wine dataset is 6.8.
+#### Mean Value of Volatile Acidity: The mean value of volatile acidity in the wine dataset is 0.2.
+#### Mean Value of Citric Acid: The mean value of citric acid in the wine dataset is 0.33.
+#### Count of Quality Ratings: The dataset contains a total of 6 different quality ratings.
